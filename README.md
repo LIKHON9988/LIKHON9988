@@ -8,9 +8,14 @@
 <h1 align="left">
 🧩 Tech Stack and Tools
 </h1>
+
 <h3 align="left">Frontend</h3>
+ <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,react,html,css)
+
+
 
 <h3 align="left">Backend</h3>
 
@@ -36,8 +41,7 @@
 📊 Github stats
 </h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likhon9988&show_icons=true&locale=en" alt="likhon9988" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likhon9988&show_icons=true&locale=en" alt="likhon9988" /></p>                  
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhon9988&" alt="likhon9988" /></p>
