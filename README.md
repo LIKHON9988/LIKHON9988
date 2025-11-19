@@ -38,7 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likhon9988&show_icons=true&locale=en" alt="likhon9988" /></p>
 
-<h3 align="left">Connect with me:</h3>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhon9988&" alt="likhon9988" /></p>
 
