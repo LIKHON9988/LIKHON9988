@@ -28,13 +28,13 @@
 
 <h1 align='left'>📌 Current Focus</h1>
 
--Improving advanced React patterns
+💡Improving advanced React patterns
 
--Mastering TypeScript
+💡Mastering TypeScript
 
--Building more full-stack projects with clean architecture
+💡Building more full-stack projects with clean architecture
 
--Learning Next.js
+💡Learning Next.js
 
 
 <h1 align="left">
