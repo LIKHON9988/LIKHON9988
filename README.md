@@ -1,3 +1,5 @@
+![logo](https://github.com/LIKHON9988/LIKHON9988/blob/main/sudiptta%20dattas%20barner.png)
+
 <h1 align="center">Hi 👋, I'm Sudiptta Datta</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
