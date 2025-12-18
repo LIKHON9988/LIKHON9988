@@ -1,11 +1,11 @@
 ![logo](https://github.com/LIKHON9988/LIKHON9988/blob/main/sudiptta%20dattas%20barner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Sudiptta Datta</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 <h3 align="left">About me:</h3>
 
-<p align='left'>Hey! My name is Sudiptta Datta. I'm a MERN Stack Front-End Developer focused on building clean, responsive, and user-friendly web applications. I work extensively with React on the frontend and use Node.js, Express.js, and MongoDB for backend development and efficient CRUD operations. I prioritize writing clean, maintainable code and delivering smooth, high-quality user experiences.</p>
+<p align='left'>Hey! My name is Sudiptta Datta. I'm a MERN Stack Developer focused on building clean, responsive, and user-friendly web applications. I work extensively with React on the frontend and use Node.js, Express.js, and MongoDB for backend development and efficient CRUD operations. I prioritize writing clean, maintainable code and delivering smooth, high-quality user experiences.</p>
 
 <h1 align="left">
 🧩 Tech Stack and Tools
