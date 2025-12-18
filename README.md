@@ -54,7 +54,7 @@
 📫 Connect With Me
 </h1>
 <p>📧 Email: sudipttadatta343@gmail.com </p>
-<p>Facebook: https://www.facebook.com/share/14Qup6s3jCz/</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhon9988&label=Profile%20views&color=0e75b6&style=flat" alt="likhon9988" /> </p>
 
